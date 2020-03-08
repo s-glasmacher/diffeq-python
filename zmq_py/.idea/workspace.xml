@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7722394f-234a-4e9a-9f23-eae97606875e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YVMUm4s5hPDBCeNlQxq93aVIdn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.diff-eq-solving">
+    <configuration name="diff-eq-solving" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="zmq_py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/diff-eq-solving.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="diff-eq-testing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="zmq_py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/diff-eq-testing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pyzmq-testing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="zmq_py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyzmq-testing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.diff-eq-solving" />
+        <item itemvalue="Python.diff-eq-testing" />
+        <item itemvalue="Python.pyzmq-testing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7722394f-234a-4e9a-9f23-eae97606875e" name="Default Changelist" comment="" />
+      <created>1583023325796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583023325796</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1836" height="278" key="GridCell.Tab.0.bottom" timestamp="1583539084318">
+      <screen x="61" y="27" width="1859" height="1053" />
+    </state>
+    <state width="1836" height="278" key="GridCell.Tab.0.bottom/61.27.1859.1053/3840.216.1920.1080/1920.0.1920.1080@61.27.1859.1053" timestamp="1583539084317" />
+    <state width="1836" height="278" key="GridCell.Tab.0.bottom/61.27.1859.1053@61.27.1859.1053" timestamp="1583424803609" />
+    <state width="1836" height="278" key="GridCell.Tab.0.bottom/61.27.5699.1269@61.27.5699.1269" timestamp="1583453925252" />
+    <state width="1836" height="278" key="GridCell.Tab.0.center" timestamp="1583539084317">
+      <screen x="61" y="27" width="1859" height="1053" />
+    </state>
+    <state width="1836" height="278" key="GridCell.Tab.0.center/61.27.1859.1053/3840.216.1920.1080/1920.0.1920.1080@61.27.1859.1053" timestamp="1583539084317" />
+    <state width="1836" height="278" key="GridCell.Tab.0.center/61.27.1859.1053@61.27.1859.1053" timestamp="1583424803605" />
+    <state width="1836" height="278" key="GridCell.Tab.0.center/61.27.5699.1269@61.27.5699.1269" timestamp="1583453925251" />
+    <state width="1836" height="278" key="GridCell.Tab.0.left" timestamp="1583539084317">
+      <screen x="61" y="27" width="1859" height="1053" />
+    </state>
+    <state width="1836" height="278" key="GridCell.Tab.0.left/61.27.1859.1053/3840.216.1920.1080/1920.0.1920.1080@61.27.1859.1053" timestamp="1583539084317" />
+    <state width="1836" height="278" key="GridCell.Tab.0.left/61.27.1859.1053@61.27.1859.1053" timestamp="1583424803604" />
+    <state width="1836" height="278" key="GridCell.Tab.0.left/61.27.5699.1269@61.27.5699.1269" timestamp="1583453925251" />
+    <state width="1836" height="278" key="GridCell.Tab.0.right" timestamp="1583539084317">
+      <screen x="61" y="27" width="1859" height="1053" />
+    </state>
+    <state width="1836" height="278" key="GridCell.Tab.0.right/61.27.1859.1053/3840.216.1920.1080/1920.0.1920.1080@61.27.1859.1053" timestamp="1583539084317" />
+    <state width="1836" height="278" key="GridCell.Tab.0.right/61.27.1859.1053@61.27.1859.1053" timestamp="1583424803608" />
+    <state width="1836" height="278" key="GridCell.Tab.0.right/61.27.5699.1269@61.27.5699.1269" timestamp="1583453925252" />
+    <state x="2524" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1583615237710">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2524" y="362" key="com.intellij.ide.util.TipDialog/61.27.1859.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583615237710" />
+    <state x="646" y="380" key="com.intellij.ide.util.TipDialog/61.27.1859.1053/3840.216.1920.1080/1920.0.1920.1080@61.27.1859.1053" timestamp="1583506574269" />
+    <state x="646" y="380" key="com.intellij.ide.util.TipDialog/61.27.1859.1053@61.27.1859.1053" timestamp="1583424298127" />
+  </component>
+</project>
