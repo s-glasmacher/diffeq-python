@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7722394f-234a-4e9a-9f23-eae97606875e" name="Default Changelist" comment="" />
+    <list default="true" id="7722394f-234a-4e9a-9f23-eae97606875e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client.c" beforeDir="false" afterPath="$PROJECT_DIR$/client.c" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YVMUm4s5hPDBCeNlQxq93aVIdn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +32,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Python.diff-eq-solving">
@@ -134,10 +145,10 @@
     <state width="1836" height="278" key="GridCell.Tab.0.right/61.27.1859.1053/3840.216.1920.1080/1920.0.1920.1080@61.27.1859.1053" timestamp="1583539084317" />
     <state width="1836" height="278" key="GridCell.Tab.0.right/61.27.1859.1053@61.27.1859.1053" timestamp="1583424803608" />
     <state width="1836" height="278" key="GridCell.Tab.0.right/61.27.5699.1269@61.27.5699.1269" timestamp="1583453925252" />
-    <state x="2524" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1583615237710">
+    <state x="2524" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1583843181498">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2524" y="362" key="com.intellij.ide.util.TipDialog/61.27.1859.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583615237710" />
+    <state x="2524" y="362" key="com.intellij.ide.util.TipDialog/61.27.1859.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583843181497" />
     <state x="646" y="380" key="com.intellij.ide.util.TipDialog/61.27.1859.1053/3840.216.1920.1080/1920.0.1920.1080@61.27.1859.1053" timestamp="1583506574269" />
     <state x="646" y="380" key="com.intellij.ide.util.TipDialog/61.27.1859.1053@61.27.1859.1053" timestamp="1583424298127" />
   </component>

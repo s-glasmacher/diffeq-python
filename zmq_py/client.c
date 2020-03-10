@@ -4,16 +4,9 @@
 
 // gcc -Wall -g client.c -std=c99 -lzmq -lczmq -o client
 
-/* Client part for testing pyzmq
- * Only sends "This is a test message." as a string
- */
-
-#define dim 1
-#define time_points 11
-
 int main(void) {
 
-	printf ("Connecting to gsl server...\n");
+	printf ("Connecting to python server...\n");
     zsock_t *socket = zsock_new_req("tcp://localhost:5555");
 
     zmsg_t *msg = zmsg_new ();

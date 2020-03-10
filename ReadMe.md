@@ -4,6 +4,10 @@ Sympy can be found here: https://www.sympy.org/en/index.html
 
 It is a free Python library for symbolic mathematics. 
 
+## Installation
+
+Install through `pip install sympy`
+
 ## Why Sympy?
 We wanted to use symbolic mathematics to find the intersection of a constant function and the solution of a differential equation. 
 
@@ -39,7 +43,7 @@ https://zeromq.org/get-started/?language=python&library=pyzmq# Here the Pyzmq ex
 
 https://pyzmq.readthedocs.io/en/latest/api/index.html This describes the basic classes. However it is lacking in examples and "How-To"s. 
 
-## Notes
+## Technical details
 
 - first create a context by: ctx = zmq.Context.instance()
 - in this we can create a socket: socket = ctx.socket(zmq.REP) with a ZMQ-Type such as Reply in this case
